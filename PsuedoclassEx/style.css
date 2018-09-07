@@ -1,0 +1,19 @@
+a {
+  font-size: 40px;
+  color: grey;
+  text-decoration: none;
+  line-height: 1.5;
+  margin: 40px;
+  padding: 20px;
+  position: relative;
+}
+
+a:hover {
+  color: aquamarine;
+  top: 5px;
+}
+
+a:active {
+  color: orchid;
+  border-style: outset;
+}
